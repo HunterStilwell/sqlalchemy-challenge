@@ -48,8 +48,8 @@ def home():
         f'Stations (/api/v1.0/stations) <br>'
         f'Temperature Observations (/api/v1.0/tobs) <br>'
         f'Start Date (/api/v1.0/start_date) <br>'
-        f'Start-End Date Range (/api/v1.0/start_date/end_date) <br><br>'
-        f'Replace start_date and end_date with dates in this format: year,month,day'
+        f'Start-End Date Range (/api/v1.0/start_date/end_date) <br>'
+        f'<i>Replace start_date and end_date with dates in this format:</i> year,month,day'
     )
     
 
